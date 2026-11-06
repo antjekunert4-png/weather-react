@@ -1,3 +1,8 @@
+body {
+  display: block;
+  margin: 80px;
+}
+
 .Weather {
   padding: 20px;
   border: 1px solid #dadde1;
@@ -58,4 +63,11 @@
   height: auto;
   line-height: 15px;
   white-space: nowrap;
+}
+.Weather footer {
+  color: #27214266;
+  font-size: 14px;
+  line-height: 18px;
+  margin-top: 80px;
+  text-align: center;
 }
