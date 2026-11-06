@@ -1,5 +1,5 @@
 import React from "react";
-import "./index.css";
+import "./Weather.css";
 import Footer from "./Footer.js";
 
 export default function Weather() {
