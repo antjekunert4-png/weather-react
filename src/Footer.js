@@ -18,8 +18,8 @@ export default function Footer() {
           target="_blank"
           rel="noreferrer"
         >
-          open-sourced on GitHub{" "}
-        </a>{" "}
+          open-sourced on GitHub
+        </a>
         and is{" "}
         <a
           href="https://weather-app-react-antje.netlify.app/"
