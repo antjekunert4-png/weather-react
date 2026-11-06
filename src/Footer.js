@@ -11,7 +11,7 @@ export default function Footer() {
           rel="noreferrer"
         >
           Antje Kunert
-        </a>
+        </a>{" "}
         and is{" "}
         <a
           href="https://github.com/antjekunert4-png/weather-react"
@@ -19,7 +19,7 @@ export default function Footer() {
           rel="noreferrer"
         >
           open-sourced on GitHub
-        </a>
+        </a>{" "}
         and is{" "}
         <a
           href="https://weather-app-react-antje.netlify.app/"
